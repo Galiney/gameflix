@@ -1,0 +1,59 @@
+@media (prefers-color-scheme: light) {
+  :root {
+    --text: rgb(17, 11, 24);
+    --background: rgb(248, 244, 251);
+    --primary: rgb(138, 64, 206);
+    --secondary: rgb(180, 126, 231);
+    --accent: rgb(161, 83, 234);
+  }
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text: rgb(237, 231, 244);
+    --background: rgb(8, 4, 11);
+    --primary: rgb(122, 49, 191);
+    --secondary: rgb(78, 24, 129);
+    --accent: rgb(99, 21, 172);
+  }
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: var(--text);
+    background-color: var(--background);
+}
+
+.custom-bg-primary {
+    background-color: var(--primary);
+}
+
+.custom-bg-secondary {
+    background-color: var(--secondary);
+}
+
+.custom-bg-accent {
+    background-color: var(--accent);
+}
+
+.custom-text {
+    color: var(--text);
+}
+
+.custom-border-primary {
+    border-color: var(--primary);
+}
+
+.header, .auth-buttons button, .filter-button {
+    color: var(--text);
+}
+
+.auth-buttons button:hover {
+    background-color: var(--secondary);
+}
+
+.card {
+    background-color: var(--background);
+    border: 1px solid var(--primary);
+}
