@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="37.780323mm"
+   height="9.2990131mm"
+   viewBox="0 0 37.780323 9.2990131"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1">
+    <rect
+       x="222.6861"
+       y="313.57837"
+       width="440.82758"
+       height="169.66559"
+       id="rect1" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-59.315759,-85.157056)">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1"
+       style="font-weight:bold;font-size:42.6667px;font-family:'Grenze Gotisch';-inkscape-font-specification:'Grenze Gotisch Bold';white-space:pre;shape-inside:url(#rect1);fill:#000000;stroke-width:0.307"
+       inkscape:export-filename="text1.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="222.68555"
+         y="356.291"
+         id="tspan3"><tspan
+           style="font-weight:normal;font-family:Impact;-inkscape-font-specification:Impact;fill:#ffffff"
+           id="tspan1">Game</tspan><tspan
+           style="font-weight:normal;font-family:'Tw Cen MT Condensed';-inkscape-font-specification:'Tw Cen MT Condensed, ';fill:#ff6600"
+           id="tspan2">Flix</tspan></tspan></text>
+  </g>
+</svg>
